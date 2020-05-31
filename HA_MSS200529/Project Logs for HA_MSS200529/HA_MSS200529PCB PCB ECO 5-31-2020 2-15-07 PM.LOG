@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U NewDesignator=U6
+Change Component Designator: OldDesignator=U NewDesignator=U7
+Added Member To Class: ClassName=04. SENSOR SHT30, PIR, TSL2561 Member=Component U6 SHT30-DIS-B

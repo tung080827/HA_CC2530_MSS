@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=E1-1
+Removed Pin From Net: NetName=GND Pin=E1-2
+Removed Pin From Net: NetName=GND Pin=E1-3
+Removed Pin From Net: NetName=NetC1_2 Pin=R2-1
+Removed Member From Class: ClassName=02. ZIGBEE CC2530 Member=E1
+Removed Member From Class: ClassName=02. ZIGBEE CC2530 Member=R1
+Removed Member From Class: ClassName=02. ZIGBEE CC2530 Member=R2
+Added Pin To Net: NetName=NetC2_2 Pin=P1-3
+Added Pin To Net: NetName=NetC1_2 Pin=U2-1
+Added Member To Class: ClassName=04. SENSOR SHT30, PIR, TSL2561 Member=Component U7 OPTICAL-TSL2561T(6P-3.8X2.6MM)
